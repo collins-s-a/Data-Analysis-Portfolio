@@ -283,9 +283,7 @@ financial decisions.
 
 ## Dashboard Preview
 
-![Hospital dashboard overview](Dashboard Screenshots\DSS1.png)
-![Hospital dashboard overview](Dashboard Screenshots\DSS2.png)
-![Hospital dashboard overview](Dashboard Screenshots\DSS3.png)
+Open the dashboard screenshots in the `dashboard screenshots/` folder for a quick overview.
 
 ## Data Limitations
 
