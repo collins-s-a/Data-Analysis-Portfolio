@@ -283,21 +283,9 @@ financial decisions.
 
 ## Dashboard Preview
 
-Add screenshots of the **actual Excel dashboard** to the `dashboard/`
-folder, then embed them here. These images allow visitors to preview the
-work without downloading the workbook.
-
-```{=html}
-<!-- Replace the paths below if your screenshot filenames differ. -->
-```
 ![Hospital dashboard overview](Dashboard Screenshots\DSS1.png)
 ![Hospital dashboard overview](Dashboard Screenshots\DSS2.png)
 ![Hospital dashboard overview](Dashboard Screenshots\DSS3.png)
-
-*Optional: include a second screenshot showing the dashboard after
-applying one or more slicer filters.*
-
-![Hospital dashboard filtered view](dashboard/dashboard_filtered.png)
 
 ## Data Limitations
 
@@ -331,30 +319,22 @@ hospital-patient-billing-analysis/
 ├── README.md
 ├── data/
 │   ├── hospital_patient_billing_raw.csv
-│   └── data_dictionary.md
-├── excel/
+├── excel workbook/
 │   └── Hospital_Patient_Billing_Analysis.xlsx
 ├── dashboard/
 │   ├── dashboard_overview.png
-│   └── dashboard_filtered.png
 ├── report/
 │   └── Hospital_Patient_and_Billing_Analysis_Report.pdf
-└── insights/
-    └── key_business_insights.md
 ```
-
-If you use different filenames or choose not to include an optional
-file, update this section to match the repository exactly.
 
 ## How to Explore the Project
 
-1.  Open the dashboard screenshots in the `dashboard/` folder for a
+1.  Open the dashboard screenshots in the `dashboard screenshots/` folder for a
     quick overview.
 2.  Read the PDF report in `report/` for the full analysis,
     interpretation and recommendations.
-3.  Download the Excel workbook in `excel/` to inspect the raw data,
+3.  Download the Excel workbook in `excel workbook/` to inspect the raw data, data dictionary,
     PivotTables, formulas, slicers and interactive dashboard.
-4.  Review the data dictionary for field definitions.
 
 ## Disclaimer
 
