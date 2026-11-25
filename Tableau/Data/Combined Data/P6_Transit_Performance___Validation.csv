@@ -1,0 +1,9 @@
+Check,Result
+Rows,581460
+Columns,7
+Months covered,12
+Routes,383
+Trip types,5
+Missing total_ridership,234957
+Negative total_ridership,0
+Duplicate analytical keys,0
